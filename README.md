@@ -1,7 +1,14 @@
 <h1 align="center">Eamonn Smyth</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **A Node JS Project to help people who strive for a greener footprint**
+I am a versatile and imaginative and hard working Full Stack Developer.
+
+Really passionate about building something from nothing - a simple idea! A notepad and a cup of coffee.
+The power of these ideas given life by way of stacking versions of code together. Code has given me more in my relatively short time as a software developer than i could ever have imagined. The thrill of seeing projects such as Sunwhere and Circles, not to mention eHand, brought to life by simple code!
+
+Since receiving my [Diploma](https://www.credential.net/9ea62e73-cfa6-43a7-90af-b6d14aa6003a) From Code Institute, i have continued with my learning journey into NodeJs, React and Docker. Currently concentrated on NodeJs - using Express, Pug, Handlebars, Ejs, MySql, MongoDb and Stripe.
+
+I am also currently working on **A Node JS Project to help people who strive for a greener footprint**
 
 <h3 align="left">Connect with me:</h3>
 
