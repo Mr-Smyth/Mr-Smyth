@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eamonn</h1>
-<h3 align="center">A Creative Software Developer</h3>
+<h1 align="center">Eamonn Smyth</h1>
+<h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on **A Node JS Project to help people who strive for a greener footprint**
 
