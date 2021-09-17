@@ -8,6 +8,8 @@ The power of these ideas given life by way of stacking versions of code together
 
 Since receiving my [Diploma](https://www.credential.net/9ea62e73-cfa6-43a7-90af-b6d14aa6003a) with distinction From Code Institute, i have continued with my learning journey into NodeJs. Having recently completed a comprehensive udemy course on NodeJs - Covering Typescript, REST API's, Express, Pug, Handlebars, Ejs, MySql, MongoDb and Stripe. Ive now decided to continue my learning into REACT.
 
+Currently working with Phorest Salon Software, an amazing company and with a great group of people.
+
 
 <h3 align="left">Connect with me:</h3>
 
