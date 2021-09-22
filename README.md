@@ -5,6 +5,8 @@
 Passionate about building something from nothing - a simple idea! A notepad and a cup of coffee and the freedom that code gives you.
 The power of these ideas given life by way of stacking versions of code together. Code has given me more in my relatively short time as a software developer than i could ever have imagined. The thrill of seeing projects such as [Sunwhere](https://github.com/Mr-Smyth/sunwhere) and [Circles](https://github.com/Mr-Smyth/circles), not to mention [eHand](https://github.com/Mr-Smyth/eHand), brought to life by simple code!
 
+Very comfortable with Html, Css, Javascript - (favour Vanilla over JQuery), NodeJs and Python. Also with Libraries and frameworks such as Bootstrap, Materialize, Bulma and Flask and Django
+
 Since receiving my [Diploma](https://www.credential.net/9ea62e73-cfa6-43a7-90af-b6d14aa6003a) with distinction From Code Institute, i have continued with my learning journey into NodeJs. Having recently completed a comprehensive udemy course on NodeJs - Covering Typescript, REST API's, Express, Pug, Handlebars, Ejs, MySql, MongoDb and Stripe. Ive now decided to continue my learning into REACT.
 
 Currently working with Phorest Salon Software, an amazing company and with a great group of people.
