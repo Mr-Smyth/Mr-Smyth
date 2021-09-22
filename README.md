@@ -1,7 +1,6 @@
 <h1 align="center">Eamonn Smyth</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">A Full Stack Software Developer</h3>
 
-Full Stack Software Developer.
 
 Passionate about building something from nothing - a simple idea! A notepad and a cup of coffee and the freedom that code gives you.
 The power of these ideas given life by way of stacking versions of code together. Code has given me more in my relatively short time as a software developer than i could ever have imagined. The thrill of seeing projects such as [Sunwhere](https://github.com/Mr-Smyth/sunwhere) and [Circles](https://github.com/Mr-Smyth/circles), not to mention [eHand](https://github.com/Mr-Smyth/eHand), brought to life by simple code!
