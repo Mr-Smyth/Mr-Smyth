@@ -8,7 +8,7 @@ Example Projects:
 - [eHand](https://github.com/Mr-Smyth/eHand)
 - [Boutique Online Store](https://github.com/Mr-Smyth/boutique_ado_v1)
 
-Competant with Html, Css, Vanilla Javascript, NodeJs, React and Python. Also with Frameworks and Libraries such as Django, Flask, Bootstrap, Materialize and Bulma.
+Proficient with Html, Css, Vanilla Javascript, NodeJs, React and Python. Also with Frameworks and Libraries such as Django, Flask, Bootstrap, Materialize and Bulma.
 
 Since receiving my [Diploma](https://www.credential.net/9ea62e73-cfa6-43a7-90af-b6d14aa6003a) with distinction From Code Institute, i have continued with my learning journey into NodeJs and REACT - Covering Typescript, REST API's, Express, Pug, Handlebars, Ejs, MySql, MongoDb and Stripe.
 
