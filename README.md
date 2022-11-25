@@ -1,11 +1,14 @@
 <h1 align="center">Eamonn Smyth</h1>
-<h3 align="center">A Full Stack Software Developer</h3>
+<h3 align="center">Full Stack Software Developer</h3>
 
 
-Passionate about building something from nothing - a simple idea! A notepad and a cup of coffee and the freedom that code gives you.
-The power of these ideas given life by way of stacking versions of code together. Code has given me more in my relatively short time as a software developer than i could ever have imagined. The thrill of seeing projects such as [Sunwhere](https://github.com/Mr-Smyth/sunwhere) and [Circles](https://github.com/Mr-Smyth/circles), not to mention [eHand](https://github.com/Mr-Smyth/eHand), brought to life by simple code!
+Example Projects:
+- [Sunwhere](https://github.com/Mr-Smyth/sunwhere)
+- [Circles](https://github.com/Mr-Smyth/circles)
+- [eHand](https://github.com/Mr-Smyth/eHand)
+- [Boutique Online Store](https://github.com/Mr-Smyth/boutique_ado_v1)
 
-Very comfortable with Html, Css, Vanilla Javascript, NodeJs and Python. Also with Frameworks and Libraries such as Django, Flask, Bootstrap, Materialize and Bulma.
+Competant with Html, Css, Vanilla Javascript, NodeJs, React and Python. Also with Frameworks and Libraries such as Django, Flask, Bootstrap, Materialize and Bulma.
 
 Since receiving my [Diploma](https://www.credential.net/9ea62e73-cfa6-43a7-90af-b6d14aa6003a) with distinction From Code Institute, i have continued with my learning journey into NodeJs. Having recently completed a comprehensive udemy course on NodeJs - Covering Typescript, REST API's, Express, Pug, Handlebars, Ejs, MySql, MongoDb and Stripe. Ive now decided to continue my learning into REACT.
 
