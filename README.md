@@ -10,7 +10,7 @@ Example Projects:
 
 Proficient with Html, Css, Vanilla Javascript, NodeJs and Python. Also with Frameworks and Libraries such as Django, Flask, React, EmberJs, Bootstrap, Materialize and Bulma.
 
-Since receiving my [Diploma](https://www.credential.net/9ea62e73-cfa6-43a7-90af-b6d14aa6003a) with distinction From Code Institute, i have continued with my learning journey into EmberJs, NodeJs and REACT - Covering Typescript, REST API's, Express, Pug, Handlebars, Ejs, MySql, MongoDb and Stripe.
+Since receiving my [Diploma](https://www.credential.net/9ea62e73-cfa6-43a7-90af-b6d14aa6003a) with distinction From Code Institute, i have continued with my learning journey into EmberJs, NestJs, NodeJs and REACT - Covering Typescript, REST API's, Express, Pug, Handlebars, Ejs, MySql, MongoDb and Stripe.
 
 Currently working with Phorest Salon Software, an amazing company and with a great group of people.
 
